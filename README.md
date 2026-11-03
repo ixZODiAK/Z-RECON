@@ -47,7 +47,7 @@
 ## Requirements
 
 - Linux (Kali / Ubuntu recommended)
-- Bash 4+
+- Bash 
 - `curl`, `jq`, `git`, `python3`
 - Go toolchain (for most recon binaries)
 - [SecLists](https://github.com/danielmiessler/SecLists) (recommended)
