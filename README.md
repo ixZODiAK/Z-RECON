@@ -1,5 +1,5 @@
 # Z-RECON
-# [*Whoami*](https://ebrahimhammad.vercel.app)
+# [*Whoami*](https://ebrahim-hammad.vercel.app)
 
 **All-in-one Bash reconnaissance toolkit for bug bounty & authorized security testing.**
 
@@ -230,4 +230,4 @@ Domain / Scope file
 
 ---
 
-**[*ZODiAK*](https://ebrahimhammad.vercel.app) · Z-RECON**
+**[*ZODiAK*](https://ebrahim-hammad.vercel.app) · Z-RECON**
