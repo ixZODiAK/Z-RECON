@@ -47,7 +47,7 @@
 ## Requirements
 
 - Linux (Kali / Ubuntu recommended)
-- Bash 
+- Bash 4+
 - `curl`, `jq`, `git`, `python3`
 - Go toolchain (for most recon binaries)
 - [SecLists](https://github.com/danielmiessler/SecLists) (recommended)
@@ -67,7 +67,7 @@ On **Kali**, the script prefers `httpx-toolkit` over the Python `httpx` package.
 ## Install
 
 ```bash
-git clone https://github.com/<YOU>/z-recon.git
+git clone https://github.com/ixZODiAK/z-recon.git
 cd z-recon
 chmod +x z-recon.sh
 ```
@@ -230,17 +230,4 @@ Domain / Scope file
 
 ---
 
-## Disclaimer
-
-This project is for **educational purposes and authorized testing only**.  
-You are solely responsible for how you use it. The author accepts no liability for misuse.
-
----
-
-## License
-
-MIT (or choose your preferred license when publishing).
-
----
-
-**ZODiAK · Z-RECON**
+**[*ZODiAK*](https://ebrahimhammad.vercel.app) · Z-RECON**
