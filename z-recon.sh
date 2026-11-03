@@ -11,7 +11,7 @@
 
 set -uo pipefail
 
-# Force color output when stdout is a TTY; still OK in pipes (codes ignored by most logs)
+#  color
 RED=$'\033[0;31m'
 GREEN=$'\033[0;32m'
 YELLOW=$'\033[1;33m'
@@ -38,7 +38,7 @@ echo """
 """
 
 # ================ End   LOGO =====================
-# Defaults (anti-ban)
+
 THREADS=20
 DIR_HOST_LIMIT=5
 MATCH_CODES="200,201,202,203,204,301,302,307,401,403,404,500"
